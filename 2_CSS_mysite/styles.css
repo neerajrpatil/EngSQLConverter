@@ -1,0 +1,25 @@
+div{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    padding:20px;
+    border: 2px solid black;
+}
+body{
+    margin: 0; /* need to make zero*/
+
+}
+
+.a{
+    background-color: aqua;
+
+
+    
+
+}
+.b{
+    background-color: antiquewhite;
+}
+.c{
+    background-color: blue;
+}

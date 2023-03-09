@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    background-color: aqua;
+    text-align: center;
+
+}
+
+
+
+.a{
+    height: 600px;
+    width:100%;
+    position: absolute;
+    
+    border: 1px solid black;
+    background-color:aqua;
+    justify-content: center;
+    top:0;
+
+    
+    
+    
+    
+
+
+
+
+    
+
+}
+
+.c{
+    height:auto;
+    
+    width:100%;
+    border:"1";
+    background-color: aqua;
+    position: absolute;
+    bottom:0;
+    
+
+
+    
+}
+.image{
+    position: absolute;
+    bottom: 0;
+    left: 500px;
+
+    
+}
+.c1{
+    position: relative;
+    right: 100px;
+    top:60px;
+}
+.c2{
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+
+

@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    
+
+}
+div{
+    height: 200px;
+    width: 200px;
+    margin-left :2px;
+    border:2px solid black;
+    padding :2px;
+
+}
+
+.a{
+    background-color: aqua;
+
+
+
+    
+
+}
+.b{
+    background-color: antiquewhite;
+    margin-left:208px;
+}
+.c1{
+    background-color: blue;
+    margin-left: 414px;
+}
+.c2{
+    position: relative;
+    right: 30px;
+}
+
