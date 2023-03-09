@@ -1,14 +1,16 @@
 body{
     margin: 0;
-    background-color: aqua;
+    background-color:aqua;
+    height: auto; 
     text-align: center;
+    color: #2d5f5f;
 
 }
 
 
 
 .a{
-    height: 600px;
+    height: 700px;
     width:100%;
     position: absolute;
     
@@ -18,29 +20,20 @@ body{
     top:0;
 
     
-    
-    
-    
-
-
-
-
-    
+   
 
 }
-
-.c{
-    height:auto;
+.b{
+    margin-top: 700px;
     
-    width:100%;
-    border:"1";
-    background-color: aqua;
-    position: absolute;
-    bottom:0;
+    height: auto;
     
+}
 
-
-    
+.d{
+    height: auto;
+    margin-bottom: 0;
+    background-color: #cdecec;
 }
 .image{
     position: absolute;
@@ -51,13 +44,15 @@ body{
 }
 .c1{
     position: relative;
-    right: 100px;
+    right: 300px;
     top:60px;
 }
 .c2{
     position: relative;
-    left: 100px;
+    left: 300px;
     top: 100px;
 }
-
-
+.nam{
+    font-family: cursive;
+    font-size: 20px;
+}
